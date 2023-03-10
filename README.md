@@ -1,5 +1,5 @@
 # MdNeehadKadir.github.io
 
-THIS IS MY PORTFORLIO 
+THIS IS MY PORTFOLIO 
 
 Where you can see my works and projects summary. 
