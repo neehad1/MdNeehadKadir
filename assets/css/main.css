@@ -176,13 +176,16 @@ input, select, textarea {
 		-ms-transition: border-bottom-color 0.25s ease-in-out;
 		transition: border-bottom-color 0.25s ease-in-out;
 		text-decoration: none;
-		color: #000000;
-		border-bottom: dotted 1px;
+		color: #253681;
+		border-bottom: dotted 1.5px;
 	}
 
 		a:hover {
 			text-decoration: none;
 			border-bottom-color: transparent;
+			transition: 0.25s;
+			text-shadow: 2px 2px #f31111;
+
 		}
 
 	strong, b {
