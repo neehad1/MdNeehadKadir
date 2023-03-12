@@ -157,7 +157,7 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #ffffff;
+		background-color: #e6f1ff;
 		color: #000000;
 	}
 
@@ -176,7 +176,7 @@ input, select, textarea {
 		-ms-transition: border-bottom-color 0.25s ease-in-out;
 		transition: border-bottom-color 0.25s ease-in-out;
 		text-decoration: none;
-		color: #253681;
+		color: #0a192f;
 		border-bottom: dotted 1.5px;
 	}
 
@@ -2138,7 +2138,7 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #2ee4bb;
+			border-color: #2b2828;
 		}
 
 	label {
@@ -2965,7 +2965,7 @@ input, select, textarea {
 				
 			}
 			.gallery a:hover{
-				color:#5598fd;
+				color:#4ab89e;
 				-webkit-filter:none; 
   				filter:none;
 				transition: 0.5s;
